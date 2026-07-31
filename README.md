@@ -20,10 +20,10 @@ Building REST APIs, Telegram bots and backend services using Python.
 
 ## Projects
 
-- Islamic PWA "Nur-Light"
-- Telegram English Learner Bot
-- MCP Books
-- FastAPI Todo API
+- Islamic PWA "Nur-Light" https://github.com/Atambek7/NUR-LIGHT
+- Telegram English Learner Bot https://github.com/Atambek7/TTelegram-bot
+- MCP Books https://github.com/Atambek7/mcp-books 
+- FastAPI Todo API https://github.com/Atambek7/to-do
   
 
 ## Contacts
