@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Atambek7/Atambek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Atambek — Junior Backend Developer 🐍
 
-Here are some ideas to get you started:
+19 y.o. • Kazakhstan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+Building REST APIs, Telegram bots and backend services using Python.
+
+## Stack
+
+| Confident | Familiar |
+|-----------|-----------|
+| Python | JavaScript |
+| FastAPI | TypeScript |
+| PostgreSQL | Docker |
+| SQLAlchemy | Redis |
+| Git | Linux |
+
+## Projects
+
+- Telegram English Learner Bot
+- MCP Books
+- FastAPI Todo API
+
+## Contacts
+
+- Telegram: @username
+- Email: your@email.com
