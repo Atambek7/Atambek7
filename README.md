@@ -20,11 +20,13 @@ Building REST APIs, Telegram bots and backend services using Python.
 
 ## Projects
 
+- Islamic PWA "Nur-Light"
 - Telegram English Learner Bot
 - MCP Books
 - FastAPI Todo API
+  
 
 ## Contacts
 
-- Telegram: @username
-- Email: your@email.com
+- Telegram: @asr1243
+- Email: atambekshamilov07@gmail.com
